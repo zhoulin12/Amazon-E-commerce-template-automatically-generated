@@ -60,3 +60,6 @@
 ## 技术支持
 
 如果您在使用过程中遇到任何问题，请联系技术开发人员。
+<img width="1920" height="799" alt="image" src="https://github.com/user-attachments/assets/47aabf3b-c09a-40b0-a0b1-4265d2c13858" />
+
+
