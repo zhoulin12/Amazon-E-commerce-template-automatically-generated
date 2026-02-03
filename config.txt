@@ -1,0 +1,13 @@
+﻿# Please enter the path to the folder containing images
+IMAGE_FOLDER_PATH=E:\资料\tpcs
+
+# Please enter the path to the folder where result files will be saved
+RESULT_FOLDER_PATH=C:\Users\格易\Desktop\模板结果
+
+# Example: If set to 2, every 2 image rows will use the same parent class number
+# 输入几个图片一个父类
+PARENT_CLASS_GROUP_SIZE=2
+
+# Model name for Doubao API
+# 输入模型名称
+MODEL_NAME=doubao-seed-1-6-251015
